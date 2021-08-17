@@ -3,6 +3,8 @@ A 3D Engine using olcPixelGameEngine(https://github.com/OneLoneCoder/olcPixelGam
 
 Status: Not Finished
 
+
+
 Features of Hatz Engine :
 
 -Camera Movement with Gravity
@@ -17,9 +19,13 @@ Features of Hatz Engine :
 
 -Debug Window(Not Finished)
 
+
+
 Preview of Hatz Engine:
 
 ![alt text](https://i.imgur.com/a9qsuYB.png)
+
+
 
 You need to check these boxes when exporting a .obj file from Blender: 
 
