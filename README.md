@@ -13,9 +13,9 @@ Features of Hatz Engine :
 
 - Importing 3D Models(.obj only)
 
-- Rendering Models effected by Directional Lighting
+- Rendering Models affected by Directional Lighting
 
-- Rendering Textures effected by Directional Lighting
+- Rendering Textures affected by Directional Lighting
 
 - Collision Detection
 
