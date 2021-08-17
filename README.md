@@ -31,6 +31,6 @@ Preview of Hatz Engine:
 
 <br /><br />
 
-You need to check these boxes when Exporting a .obj file from Blender: 
+You need to check these boxes when exporting a .obj file from Blender: 
 
 ![alt text](https://i.imgur.com/agKhaWb.png)
