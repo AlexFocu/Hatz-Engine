@@ -11,6 +11,8 @@ Features of Hatz Engine :
 
 - Camera Movement with Gravity
 
+- Camera Clipping 
+
 - Importing 3D Models(.obj only)
 
 - Rendering Models affected by Directional Lighting
