@@ -2,8 +2,7 @@
 A 3D Engine using olcPixelGameEngine(https://github.com/OneLoneCoder/olcPixelGameEngine)
 
 Status: Not Finished
- 
- 
+  
  <br /><br />
  
 Features of Hatz Engine :
@@ -20,13 +19,13 @@ Features of Hatz Engine :
 
 -Debug Window(Not Finished)
 
-
+<br /><br />
 
 Preview of Hatz Engine:
 
 ![alt text](https://i.imgur.com/a9qsuYB.png)
 
-
+<br /><br />
 
 You need to check these boxes when exporting a .obj file from Blender: 
 
