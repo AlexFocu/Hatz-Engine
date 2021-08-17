@@ -9,17 +9,17 @@ Status: Not Finished
  
 Features of Hatz Engine :
 
--Camera Movement with Gravity
+- Camera Movement with Gravity
 
--Importing 3D Models(.obj only)
+- Importing 3D Models(.obj only)
 
--Rendering Models effected by Directional Lighting
+- Rendering Models effected by Directional Lighting
 
--Rendering Textures effected by Directional Lighting
+- Rendering Textures effected by Directional Lighting
 
--Collision Detection
+- Collision Detection
 
--Debug Window(Not Finished)
+- Debug Window(Not Finished)
 
 <br /><br />
 
