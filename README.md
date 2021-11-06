@@ -13,11 +13,11 @@ Features of Hatz Engine :
 
 - Camera Clipping 
 
-- Importing 3D Models(.obj only)
+- Import 3D Models(.obj only)
 
-- Rendering Models affected by Directional Lighting
+- Render Textured Models affected by Directional Lighting
 
-- Rendering Textures affected by Directional Lighting
+- Back-face Culling
 
 - Collision Detection
 
